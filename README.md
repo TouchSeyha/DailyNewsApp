@@ -1,10 +1,10 @@
-# News App
+# DailyNews App
 Final Project for University of Cambodia,
 Evening Class.
 
 ### Project Overview
 
-The goal is to create a News Feed app which gives a user regularly-updated news from the internet 
+The goal is to create a DailyNews Feed app which gives a user regularly-updated news from the internet 
 related to a particular topic, person, or location.
 
 ### Features
@@ -22,15 +22,20 @@ related to a particular topic, person, or location.
 * SharedPreferences
 
 ### Screenshots
-
 <p align="center">
-  <img src="https://github.com/TouchSeyha/Android-APP/assets/126103757/fa260bd9-0259-4337-839d-ef4caab2094e" alt="Main_20240616_152328" width="200" />
-  <img src="https://github.com/TouchSeyha/Android-APP/assets/126103757/03c512ec-d082-4c86-8e17-f12752a19ac4" alt="Navigation_20240616_152447" width="200" />
-  <img src="https://github.com/TouchSeyha/Android-APP/assets/126103757/53ee53e9-5634-4d46-86f3-b3a6fdb67dcc" alt="Swipe_20240616_152602" width="200" />
+  <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/413ba15a-19e7-4800-a1eb-158530b00537" alt="mainScreen" width="200" />
+  <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/13366eef-3d26-4bfb-8ef8-74ab713bf232" alt="newmain" width="200" />
+  <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/9b4c3bf4-0a85-4717-8ffc-d55ae1fdd095" alt="Setting_20240616_152627" width="200" />
 </p>
 <p align="center">
-  <img src="https://github.com/TouchSeyha/Android-APP/assets/126103757/4604fb49-7f89-400b-bc91-26124122064f" alt="Setting_20240616_152627" width="200" />
-  <img src="https://github.com/TouchSeyha/Android-APP/assets/126103757/c8166f30-b3d7-47d7-acad-a525c1efffc7" alt="Date_20240616_152656" width="200" />
-  <img src="https://github.com/TouchSeyha/Android-APP/assets/126103757/723d349a-1096-4a0d-b0a2-ab60b3c26ac8" alt="ColorTheme_20240616_152720" width="200" />
+  <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/ef9f0114-5390-4f8a-9764-83386c8eab1c" alt="Choose2Items" width="200" />
+  <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/657fbd9f-cea9-406a-81ba-212149d38585" alt="Output of 2items" width="200" />
+ <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/26e290d4-a369-4105-a71b-f16816d4bd33" alt="ColorTheme_20240616_152720" width="200" />
+</p>
+  
+<p align="center">
+ <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/983d20b8-6de2-4fc0-8660-9cfbdd2d4f36" alt="AfterChangeColor_20240616_155608" width="200" />
+  <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/fbb9488b-060d-4fc0-9bb4-42bf13b0695f" alt="text" width="200" />
+  <img src="https://github.com/TouchSeyha/NewsFeedApp/assets/126103757/512e41f6-5b9c-4482-92e1-829e13d2864e" alt="textsizeoutput" width="200" />
 </p>
 
