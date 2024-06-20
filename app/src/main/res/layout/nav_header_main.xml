@@ -18,8 +18,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif"
-        android:text="@string/the_guardian"
-        android:textSize="45sp"
+        android:text="@string/DailyNews"
+        android:textSize="50sp"
         android:textStyle="bold" />
 
 </LinearLayout>

@@ -1,7 +1,7 @@
 
 
 <resources>
-    <string name="app_name">NewsFeed</string>
+    <string name="app_name">DailyNewsFeed</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -33,7 +33,7 @@
     <string name="updated_just_now">Updated just now</string>
     <string name="share_article">Share Article</string>
 
-    <string name="the_guardian">theguardian</string>
+    <string name="DailyNews">DailyNews</string>
 
     <!-- Strings for Section -->
     <string name="world">world</string>
