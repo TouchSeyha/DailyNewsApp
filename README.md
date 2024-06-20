@@ -34,6 +34,3 @@ related to a particular topic, person, or location.
   <img src="https://github.com/TouchSeyha/Android-APP/assets/126103757/723d349a-1096-4a0d-b0a2-ab60b3c26ac8" alt="ColorTheme_20240616_152720" width="200" />
 </p>
 
-### Image resources
-[Icon](https://www.iconfinder.com/icons/315754/ball_soccer_icon#size=256) by Yannick Lung<br/>
-[Icon](https://www.iconfinder.com/icons/2124145/app_essential_science_ui_icon#size=256) by Just Icon
